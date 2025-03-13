@@ -1,2 +1,2 @@
 # Triangle.cpp
-build triangle in C++
+create triangle in c++ programming language using loop.
